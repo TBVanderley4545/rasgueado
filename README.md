@@ -65,15 +65,14 @@ Link to the firmware repo [here](https://github.com/TBVanderley4545/zmk-config-r
 
 ## Pictures
 
-![IMG_0245](https://github.com/user-attachments/assets/e619c1c9-191e-42eb-ac16-865e68c547a2)
+![IMG_0245](https://github.com/user-attachments/assets/4a8d7880-9509-46da-8d63-60095269be6a)
 
-![IMG_0257](https://github.com/user-attachments/assets/fdcf931c-ce74-4b3b-b948-631788ee88d0)
+![IMG_0257](https://github.com/user-attachments/assets/ee52f465-7823-4100-9c29-58212f34c8f8)
 
-![IMG_0258](https://github.com/user-attachments/assets/c8552a1e-dfa6-4be6-9a48-7b499c57ade7)
+![IMG_0259](https://github.com/user-attachments/assets/43d5c1da-56e8-407a-89ab-89f8eaba67ad)
 
-![IMG_0259](https://github.com/user-attachments/assets/5cdd2cc2-242c-4f23-ae66-abb1c9bf6cc9)
+![IMG_0258](https://github.com/user-attachments/assets/774a0dcd-e5e1-4ac9-a054-6664094e699b)
 
-![IMG_0256](https://github.com/user-attachments/assets/15f40c14-028d-42bc-863d-983eac55b03c)
+![IMG_0256](https://github.com/user-attachments/assets/df92fbe9-3994-4b8b-a65b-e077bcc47cdf)
 
-![IMG_0260](https://github.com/user-attachments/assets/a8b9f702-5422-4706-bb92-0b9e7d790a45)
-
+![IMG_0260](https://github.com/user-attachments/assets/8c1616d9-9162-4230-9f09-52b7fe3a8004)
